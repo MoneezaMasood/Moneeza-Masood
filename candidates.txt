@@ -1,0 +1,6 @@
+name	independent?	party_name		total_votes		constituencies		symbol		symbol_id		requests?
+inam	true			none			0				na1					book		3				false
+inam	false			Pti				0				peshawa-1			theeti		4				false
+sanjo	true			none			0				na1					bhaii		21				false
+sanjo	true			none			0				na1					barwa		0				false
+azeenom	false			pmln			0				na2					HATF-9		7				false

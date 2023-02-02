@@ -1,0 +1,3 @@
+name	registered?	constituency	cnic		password	vote_casted?
+jj	false		na3		173011133451	itis12345	false
+sanjo	false		na1		122051144122	no,itsnotsanjo	false
